@@ -24,7 +24,16 @@ the code will generate these files: </br>
 2. **weights.best_#.hdf5**: weights of best model (lowest validation loss) where #: cross-validation iteration</br>
 3. **ROC_AUC_#.jpg**: image of Receiver-Operating Characteristic curve with area under the curve value where #: cross-validation iteration</br>
 4. **train_val_loss_#.jpg**: training and validaition losses where #: cross-validation iteration</br>
+
 5. **test_cm_#.jpg**: </br>
 6. **test_metrics_#.txt**: </br>
 7. **test_results_#.csv**: </br>
+
+8. **train_cm_#.jpg**: </br>
+9. **train_metrics_#.txt**: </br>
+10. **train_results_#.csv**: </br>
+
+11. **valid_cm_#.jpg**: </br>
+12. **valid_metrics_#.txt**: </br>
+13. **valid_results_#.csv**: </br>
 
