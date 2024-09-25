@@ -44,7 +44,7 @@ the code is tested on the following packages and versions:
 </br>The code can probably work with different versions of the above packages
 
 ## Credit
-* please cite this work: Al-Fahdi, M.; Yuan, K.; Yao, Y.; Rurali, R.; Hu, M. High-Throughput Thermoelectric Materials Screening by Deep Convolutional Neural Network with Fused Orbital Field Matrix and Composition Descriptors. **Applied Physics Reviews** _2024_, 11 (2).
+* if you use this code (you're also welcome to use the data in the paper), please cite this work: Al-Fahdi, M.; Yuan, K.; Yao, Y.; Rurali, R.; Hu, M. High-Throughput Thermoelectric Materials Screening by Deep Convolutional Neural Network with Fused Orbital Field Matrix and Composition Descriptors. **Applied Physics Reviews** _2024_, 11 (2).
 * Please consider reading my published work in Google Scholar using this [link](https://scholar.google.com/citations?user=5tkWy4AAAAAJ&hl=en&oi=ao) thank you :)
 * also please let me know if more features are needed to be added and/or improved 
 
