@@ -25,9 +25,9 @@ the code will generate these files: </br>
 3. **ROC_AUC_#.jpg**: image of Receiver-Operating Characteristic curve with area under the curve value where #: cross-validation iteration</br>
 4. **train_val_loss_#.jpg**: training and validaition losses where #: cross-validation iteration</br>
 
-5. **test_cm_#.jpg**: </br>
-6. **test_metrics_#.txt**: </br>
-7. **test_results_#.csv**: </br>
+5. **test_cm_#.jpg**:
+6. **test_metrics_#.txt**: 
+7. **test_results_#.csv**: 
 
 8. **train_cm_#.jpg**: </br>
 9. **train_metrics_#.txt**: </br>
