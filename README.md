@@ -19,7 +19,7 @@ python main.py \
   --num_kfolds 9 \
 </code>
 
-the code will generate these files: </br>
+the code will generate these files:
 1. **CV_results_summary.csv**: cross-validation results from all iterations</br>
 2. **weights.best_#.hdf5**: weights of best model (lowest validation loss) where #: cross-validation iteration</br>
 3. **ROC_AUC_#.jpg**: image of Receiver-Operating Characteristic curve with area under the curve value where #: cross-validation iteration</br>
