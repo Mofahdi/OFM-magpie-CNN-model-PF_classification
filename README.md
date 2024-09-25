@@ -1,4 +1,4 @@
-# OFM-magpie-CNN-model-PF_class
+# OFM-magpie-CNN-model-PF_classification
 Classification by CNN model that utilizes orbital field matrix (OFM) and magpie features. It was used to classify thermoelectric power factor.
 
 ## Usage
