@@ -4,7 +4,7 @@ Classification by CNN model that utilizes orbital field matrix (OFM) and magpie 
 ## Usage
 you have to have "props.csv" file that has 'id' and 'prop' columns. You also have to put the POSCAR files inside "directory" and each file must end with ".POSCAR"</br>
 The code can be used in classification dataset but was used in the paper below at the end. </br>
-Note: the code has and imposes cross-validation.</br>
+Note: the code uses cross-validation and imposes it.</br>
 Here is a sample of how to run the code.
 <code>
 python main.py \
