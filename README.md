@@ -2,6 +2,8 @@
 Classification by CNN model that utilizes orbital field matrix (OFM) and magpie features. It was used to classify thermoelectric power factor.
 
 ## Usage
+you have to have "props.csv" file that have 'id' and 'prop' columns. You also have to put the POSCAR files inside "directory" and each file must end with ".POSCAR"</br>
+Here is a sample of how to run the code.
 <code>
 python main.py \
   --ofm_channels 32 32 64 \
